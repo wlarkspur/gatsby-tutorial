@@ -4,7 +4,7 @@ import Seo from "../components/Seo";
 
 export default function IndexPage() {
   return (
-    <Layout title="Welcome to my DevStickers 👋">
+    <Layout title="Welcome to my DevStickers😀 👋">
       <div></div>
     </Layout>
   );
