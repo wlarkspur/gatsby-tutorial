@@ -7,7 +7,7 @@ import { Link } from "gatsby";
 
 export default function IndexPage({ data }: PageProps<Queries.StickersQuery>) {
   return (
-    <Layout title="Welcome to my DevStickers😀 👋">
+    <Layout title="Welcome to my DevStickers!!😀 👋">
       <div className="grid">
         {data.allContentfulStickerPack.nodes.map((sticker) => (
           <article>
